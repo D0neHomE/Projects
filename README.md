@@ -13,3 +13,20 @@
 -体重：45kg
 
 ### IP:重庆
+
+---
+
+## 我的专业是人工智能
+### 我最喜欢的一段代码
+
+```python
+import numpy as np
+print(np.array([1, 2, 3]) ** 2)
+```
+其中执行`print(np.array([1, 2, 3]) ** 2)`可输出结果。
+
+### 我最喜欢的环境管理工具是conda
+<img src="" width="800" alt="截图一">
+
+### 我可以在IDE上使用我建立的虚拟环境
+<img src="https://raw.githubusercontent.com/Winnie-Qi/dev_skills/main/images/pic2.jpg" width="800" alt="截图二">
