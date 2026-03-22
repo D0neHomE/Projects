@@ -14,6 +14,9 @@
 
 ### IP:重庆
 
+### 人生信条
+>"不开心就多肖肖！"
+
 ---
 
 ## 我的专业是人工智能
@@ -26,7 +29,7 @@ print(np.array([1, 2, 3]) ** 2)
 其中执行`print(np.array([1, 2, 3]) ** 2)`可输出结果。
 
 ### 我最喜欢的环境管理工具是conda
-<img src="" width="800" alt="截图一">
+<img src="https://github.com/D0neHomE/Projects/blob/main/图片/533c60aefdb9407ab7850e24adb6bdc2.png" width="800" alt="截图一">
 
 ### 我可以在IDE上使用我建立的虚拟环境
 <img src="https://github.com/D0neHomE/Projects/blob/main/图片/7a04fd5db5aa323188e1a6447c511fc4.png" width="800" alt="截图二">
