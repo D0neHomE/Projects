@@ -29,4 +29,4 @@ print(np.array([1, 2, 3]) ** 2)
 <img src="" width="800" alt="截图一">
 
 ### 我可以在IDE上使用我建立的虚拟环境
-<img src="https://github.com/D0neHomE/Projects/blob/main/7a04fd5db5aa323188e1a6447c511fc4.png" width="800" alt="截图二">
+<img src="https://github.com/D0neHomE/Projects/blob/main/图片/7a04fd5db5aa323188e1a6447c511fc4.png" width="800" alt="截图二">
